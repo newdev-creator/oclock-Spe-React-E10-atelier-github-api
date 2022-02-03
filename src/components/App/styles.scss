@@ -1,0 +1,16 @@
+.app {
+  width: 500px;
+  margin: 0 auto;
+  background-color: #ecf0f1;
+  padding: 1rem;
+  /* 1vh représente 1% de la hauteur disponible */
+  min-height: 100vh;
+
+  .logo-github {
+    text-align: center;
+
+    img {
+      max-width: 150px;
+    }
+  }
+}
